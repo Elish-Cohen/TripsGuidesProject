@@ -1,0 +1,108 @@
+[
+  {
+    "id": 1,
+    "location": "הרובע היהודי בירושלים",
+    "region": "ירושלים והסביבה",
+    "guide": "יוסי כהן",
+    "pricePerPerson": 70,
+    "ageRange": "10-70",
+    "lat": 31.7767,
+    "lng": 35.2345,
+    "availableHours": [
+      "10:00",
+      "13:00",
+      "17:00"
+    ],
+    "maxPeople": 20,
+    "bookings": {},
+    "imageUrl": "public/images/Jerusalem_19.jpg"
+  },
+  {
+    "id": 2,
+    "location": "פארק המעיינות",
+    "region": "צפון",
+    "guide": "שרה גולן",
+    "pricePerPerson": 60,
+    "ageRange": "5-65",
+    "lat": 32.5091,
+    "lng": 35.5036,
+    "availableHours": [
+      "09:00",
+      "12:00",
+      "15:00"
+    ],
+    "maxPeople": 20,
+    "bookings": {},
+    "imageUrl": "public/images/פארק המעינות.jpg"
+  },
+  {
+    "id": 3,
+    "location": "מצפה רמון",
+    "region": "דרום",
+    "guide": "דני ברק",
+    "pricePerPerson": 80,
+    "ageRange": "12-60",
+    "lat": 30.6119,
+    "lng": 34.8013,
+    "availableHours": [
+      "08:30",
+      "11:30"
+    ],
+    "maxPeople": 20,
+    "bookings": {},
+    "imageUrl": "public/images/יעל במצפה רמון.jpg"
+  },
+  {
+    "id": 4,
+    "location": "צפת העתיקה",
+    "region": "צפון",
+    "guide": "רינה קציר",
+    "pricePerPerson": 65,
+    "ageRange": "8-70",
+    "lat": 32.9664,
+    "lng": 35.496,
+    "availableHours": [
+      "10:00",
+      "14:00"
+    ],
+    "maxPeople": 20,
+    "bookings": {},
+    "imageUrl": "public/images/צפת העתיקה.jpg"
+  },
+  {
+    "id": 5,
+    "location": "שוק הכרמל",
+    "region": "מרכז",
+    "guide": "יואב צרויה",
+    "pricePerPerson": "35",
+    "ageRange": "3-99",
+    "lat": 32.068683,
+    "lng": 34.769047,
+    "availableHours": [
+      "15:00"
+    ],
+    "maxPeople": "25",
+    "bookings": {},
+    "imageUrl": "public/images/שוק הכרמל.jpg"
+  },
+  {
+    "id": 6,
+    "location": "חוף האלמוגים",
+    "region": "אילת והערבה",
+    "guide": "עומר גולן",
+    "pricePerPerson": "200",
+    "ageRange": "10-60",
+    "lat": 29.508002,
+    "lng": 34.920761,
+    "availableHours": [
+      "8:00-4:00"
+    ],
+    "maxPeople": 8,
+    "bookings": {
+      "2025-06-22": 8
+    },
+    "imageUrl": "public/images/חוף האלמוגים.jpg",
+    "selectedDate": "2025-06-22",
+    "selectedCount": 8
+  }
+]

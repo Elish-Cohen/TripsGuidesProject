@@ -1,0 +1,153 @@
+[
+  {
+    "id": 1,
+    "name": "elisheva",
+    "username": "admin",
+    "password": "123",
+    "email": "e6197281@gmail.com",
+    "isAdmin": true
+  },
+  {
+    "id": 16,
+    "name": "Miri",
+    "username": "miri88",
+    "password": "nv5676",
+    "email": "miri@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/44.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Avi Cohen",
+    "username": "avic",
+    "password": "avi123",
+    "email": "avi@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/men/12.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Noa Levi",
+    "username": "noa_levi",
+    "password": "pass321",
+    "email": "noa@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/25.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Yossi Azulay",
+    "username": "yossiaz",
+    "password": "abc123",
+    "email": "yossi@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/men/33.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Dana Mor",
+    "username": "danam",
+    "password": "dana888",
+    "email": "dana@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/66.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Tal Shavit",
+    "username": "talsh",
+    "password": "tal987",
+    "email": "tal@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/men/45.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Shira Ben",
+    "username": "shira_b",
+    "password": "shira555",
+    "email": "shira@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/18.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Eli Dahan",
+    "username": "elid",
+    "password": "eli123",
+    "email": "eli@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/men/22.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Tamar Aviv",
+    "username": "tamarav",
+    "password": "tamar789",
+    "email": "tamar@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/36.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Rami Neeman",
+    "username": "ramin",
+    "password": "rami456",
+    "email": "rami@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/men/55.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Liat Koren",
+    "username": "liatk",
+    "password": "liat999",
+    "email": "liat@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/49.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Oren Feldman",
+    "username": "orenf",
+    "password": "oren111",
+    "email": "oren@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/men/77.jpg"
+  },
+  {
+    "id": 13,
+    "name": "Yael Golan",
+    "username": "yaelg",
+    "password": "yael432",
+    "email": "yael@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/14.jpg"
+  },
+  {
+    "id": 14,
+    "name": "Moshe Dayan",
+    "username": "moshed",
+    "password": "moshe456",
+    "email": "moshe@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/men/60.jpg"
+  },
+  {
+    "id": 15,
+    "name": "Rivka Stern",
+    "username": "rivkas",
+    "password": "rivka222",
+    "email": "rivka@example.com",
+    "isAdmin": false,
+    "imgUrl": "https://randomuser.me/api/portraits/women/35.jpg"
+  },
+  {
+    "name": "noa",
+    "username": "noa",
+    "password": "159",
+    "email": "e6197281@gmail.com",
+    "isAdmin": false,
+    "id": 16
+  }
+]

@@ -1,0 +1,313 @@
+[
+  {
+    "userId": 2,
+    "cart": [
+      {
+        "id": 3,
+        "location": "מצפה רמון",
+        "region": "דרום",
+        "guide": "דני ברק",
+        "pricePerPerson": 80,
+        "ageRange": "12-60",
+        "lat": 30.6119,
+        "lng": 34.8013,
+        "availableHours": [
+          "08:30",
+          "11:30",
+          "16:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/יעל במצפה רמון.jpg"
+      },
+      {
+        "id": 5,
+        "location": "עמק יזרעאל",
+        "region": "צפון",
+        "guide": "שחר לוי",
+        "pricePerPerson": 120,
+        "ageRange": "10-70",
+        "lat": 32.6108,
+        "lng": 35.1674,
+        "availableHours": [
+          "09:00",
+          "13:00",
+          "17:00"
+        ],
+        "maxPeople": 25,
+        "bookings": {},
+        "imageUrl": "public/images/עמק יזרעאל.jpg"
+      }
+    ]
+  },
+  {
+    "userId": 3,
+    "cart": []
+  },
+  {
+    "userId": 11,
+    "cart": [
+      {
+        "id": 1,
+        "location": "הרובע היהודי בירושלים",
+        "region": "ירושלים",
+        "guide": "יוסי כהן",
+        "pricePerPerson": 70,
+        "ageRange": "10-70",
+        "lat": 31.7767,
+        "lng": 35.2345,
+        "availableHours": [
+          "10:00",
+          "13:00",
+          "17:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/Jerusalem_19.jpg",
+        "selectedDate": "2025-07-01",
+        "selectedCount": 1
+      },
+      {
+        "id": 1,
+        "location": "הרובע היהודי בירושלים",
+        "region": "ירושלים",
+        "guide": "יוסי כהן",
+        "pricePerPerson": 70,
+        "ageRange": "10-70",
+        "lat": 31.7767,
+        "lng": 35.2345,
+        "availableHours": [
+          "10:00",
+          "13:00",
+          "17:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/Jerusalem_19.jpg",
+        "selectedDate": "2025-06-22",
+        "selectedCount": 1
+      },
+      {
+        "id": 2,
+        "location": "פארק המעיינות",
+        "region": "צפון",
+        "guide": "שרה גולן",
+        "pricePerPerson": 60,
+        "ageRange": "5-65",
+        "lat": 32.5091,
+        "lng": 35.5036,
+        "availableHours": [
+          "09:00",
+          "12:00",
+          "15:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/פארק המעינות.jpg",
+        "selectedDate": "2025-06-23",
+        "selectedCount": 1
+      }
+    ]
+  },
+  {
+    "userId": 10,
+    "cart": [
+      {
+        "id": 1,
+        "location": "הרובע היהודי בירושלים",
+        "region": "ירושלים",
+        "guide": "יוסי כהן",
+        "pricePerPerson": 70,
+        "ageRange": "10-70",
+        "lat": 31.7767,
+        "lng": 35.2345,
+        "availableHours": [
+          "10:00",
+          "13:00",
+          "17:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/Jerusalem_19.jpg",
+        "selectedDate": "2025-06-01",
+        "selectedCount": 20
+      },
+      {
+        "id": 2,
+        "location": "פארק המעיינות",
+        "region": "צפון",
+        "guide": "שרה גולן",
+        "pricePerPerson": 60,
+        "ageRange": "5-65",
+        "lat": 32.5091,
+        "lng": 35.5036,
+        "availableHours": [
+          "09:00",
+          "12:00",
+          "15:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {
+          "2025-06-23": 1
+        },
+        "imageUrl": "public/images/פארק המעינות.jpg",
+        "selectedDate": "2025-06-24",
+        "selectedCount": 1
+      }
+    ]
+  },
+  {
+    "userId": 15,
+    "cart": [
+      {
+        "id": 1,
+        "location": "הרובע היהודי בירושלים",
+        "region": "ירושלים והסביבה",
+        "guide": "יוסי כהן",
+        "pricePerPerson": 70,
+        "ageRange": "10-70",
+        "lat": 31.7767,
+        "lng": 35.2345,
+        "availableHours": [
+          "10:00",
+          "13:00",
+          "17:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/Jerusalem_19.jpg",
+        "selectedDate": "2025-06-24",
+        "selectedCount": 1
+      },
+      {
+        "id": 1,
+        "location": "הרובע היהודי בירושלים",
+        "region": "ירושלים והסביבה",
+        "guide": "יוסי כהן",
+        "pricePerPerson": 70,
+        "ageRange": "10-70",
+        "lat": 31.7767,
+        "lng": 35.2345,
+        "availableHours": [
+          "10:00",
+          "13:00",
+          "17:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/Jerusalem_19.jpg",
+        "selectedDate": "2025-06-24",
+        "selectedCount": 1
+      },
+      {
+        "id": 3,
+        "location": "מצפה רמון",
+        "region": "דרום",
+        "guide": "דני ברק",
+        "pricePerPerson": 80,
+        "ageRange": "12-60",
+        "lat": 30.6119,
+        "lng": 34.8013,
+        "availableHours": [
+          "08:30",
+          "11:30"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/יעל במצפה רמון.jpg",
+        "selectedDate": "2025-06-23",
+        "selectedCount": 1
+      }
+    ]
+  },
+  {
+    "userId": 16,
+    "cart": [
+      {
+        "id": 1,
+        "location": "הרובע היהודי בירושלים",
+        "region": "ירושלים והסביבה",
+        "guide": "יוסי כהן",
+        "pricePerPerson": 70,
+        "ageRange": "10-70",
+        "lat": 31.7767,
+        "lng": 35.2345,
+        "availableHours": [
+          "10:00",
+          "13:00",
+          "17:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/Jerusalem_19.jpg",
+        "selectedCount": 3,
+        "selectedDate": "2025-07-02"
+      },
+      {
+        "id": 2,
+        "location": "פארק המעיינות",
+        "region": "צפון",
+        "guide": "שרה גולן",
+        "pricePerPerson": 60,
+        "ageRange": "5-65",
+        "lat": 32.5091,
+        "lng": 35.5036,
+        "availableHours": [
+          "09:00",
+          "12:00",
+          "15:00"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/פארק המעינות.jpg",
+        "selectedDate": "2025-04-30",
+        "selectedCount": 5
+      }
+    ]
+  },
+  {
+    "userId": 12,
+    "cart": [
+      {
+        "id": 6,
+        "location": "חוף האלמוגים",
+        "region": "אילת והערבה",
+        "guide": "עומר גולן",
+        "pricePerPerson": "200",
+        "ageRange": "10-60",
+        "lat": 29.508002,
+        "lng": 34.920761,
+        "availableHours": [
+          "8:00-4:00"
+        ],
+        "maxPeople": "8",
+        "imageUrl": "public/images/חוף האלמוגים.jpg",
+        "selectedDate": "2025-06-22",
+        "selectedCount": 5
+      }
+    ]
+  },
+  {
+    "userId": 14,
+    "cart": [
+      {
+        "id": 6,
+        "location": "חוף האלמוגים",
+        "region": "אילת והערבה",
+        "guide": "עומר גולן",
+        "pricePerPerson": "200",
+        "ageRange": "10-60",
+        "lat": 29.508002,
+        "lng": 34.920761,
+        "availableHours": [
+          "8:00-4:00"
+        ],
+        "maxPeople": "8",
+        "bookings": {},
+        "imageUrl": "public/images/חוף האלמוגים.jpg",
+        "selectedDate": "2025-06-22",
+        "selectedCount": 8
+      }
+    ]
+  }
+]
