@@ -1,9 +1,9 @@
 # TripsGuidesProject
 
-TripsGuidesProject is a full-stack educational web application that simulates a real-world tour booking platform, focusing on authentication, role-based access, and a complete end-to-end ordering flow.
+TripsGuidesProject is a full-stack educational web application that simulates a real-world tour booking platform with an end-to-end client–server flow.
 
-This project was developed as part of a learning process and serves as a **portfolio project**.  
-It focuses on real-world application logic such as authentication, role-based authorization, state management, and a complete order flow — without integrating real payment services.
+This project was developed as part of a learning process and serves as a portfolio project.  
+It demonstrates practical full-stack concepts such as authentication, role-based authorization, state management with Redux, and REST API design — without integrating real payment services.
 
 ---
 
