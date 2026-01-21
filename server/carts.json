@@ -309,5 +309,29 @@
         "selectedCount": 8
       }
     ]
+  },
+  {
+    "userId": 6,
+    "cart": [
+      {
+        "id": 3,
+        "location": "מצפה רמון",
+        "region": "דרום",
+        "guide": "דני ברק",
+        "pricePerPerson": 80,
+        "ageRange": "12-60",
+        "lat": 30.6119,
+        "lng": 34.8013,
+        "availableHours": [
+          "08:30",
+          "11:30"
+        ],
+        "maxPeople": 20,
+        "bookings": {},
+        "imageUrl": "public/images/יעל במצפה רמון.jpg",
+        "selectedDate": "2026-01-07",
+        "selectedCount": 8
+      }
+    ]
   }
 ]
