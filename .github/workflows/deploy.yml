@@ -40,7 +40,7 @@ jobs:
             echo "Building client..."
             cd ../client
             npm install
-            npm run build
+            node --max-old-space-size=4096 node_modules/.bin/vite build
 
             # Copy frontend build to Nginx
             echo "Deploying frontend to Nginx..."
