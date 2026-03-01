@@ -1,0 +1,46 @@
+name: Deploy Fullstack to EC2
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup SSH
+        run: |
+          mkdir -p ~/.ssh
+          echo "${{ secrets.SSH_KEY }}" > ~/.ssh/id_rsa
+          chmod 600 ~/.ssh/id_rsa
+          ssh-keyscan -H ${{ secrets.EC2_HOST }} >> ~/.ssh/known_hosts
+
+      - name: Deploy to EC2
+        run: |
+          ssh ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }} << 'EOF'
+            cd /home/ubuntu/TripsGuidesProject
+
+            echo "Pulling latest code..."
+            git pull
+
+            # --- Backend ---
+            echo "Installing server dependencies..."
+            cd server
+            npm install
+
+            echo "Restarting server with PM2..."
+            pm2 restart trips-server || pm2 start server.js --name trips-server
+
+            # --- Frontend ---
+            echo "Building client..."
+            cd ../client
+            npm install
+            npm run build
+
+            echo "Deployment complete!"
+          EOF
