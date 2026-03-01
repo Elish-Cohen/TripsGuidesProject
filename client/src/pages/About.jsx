@@ -26,7 +26,7 @@ const About = () => {
         }}
       >
         <Typography variant="h3" color="white" fontWeight={700}>
-          אהבת המולדת • חווית חיים
+          אהבת הארץ • חווית חיים
         </Typography>
       </Box>
 
